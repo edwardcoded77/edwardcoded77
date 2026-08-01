@@ -1,1 +1,5 @@
-Testing this file to see if its going to be committed on vscode.
+Hi, I'm Edward
+  I'm a Database Contractor on a coding journey and modern development tools.
+  Always learning. Always building.
+
+
