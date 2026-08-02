@@ -1,8 +1,7 @@
-Hi, I'm Edward
-  I'm a Database Contractor on a coding journey and modern development tools.
-<<<<<<< HEAD
-=======
+Hello-bun
+I have a background in database administration and enjoy learning new technologies. I'm currently building my programming skills by creating projects and improving every day.
 
+Joke Section:
+Q: What do you call a sleeping bull?
 
-
->>>>>>> 072854d9048a884c2cc7df5e904eb0cd84720aee
+A: A bulldozer.
